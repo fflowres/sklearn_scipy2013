@@ -11,7 +11,7 @@ This repository will contain files and other info associated with our Scipy
 2013 scikit-learn tutorial.
 
 
-Video Here : (https://www.youtube.com/watch?v=r4bRUvvlaBw)[https://www.youtube.com/watch?v=r4bRUvvlaBw]
+Video Here : https://www.youtube.com/watch?v=r4bRUvvlaBw
 
 Installation Notes
 ------------------
